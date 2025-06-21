@@ -1,4 +1,4 @@
-# 42 School Projects Portfolio
+# 42 School Projects
 
 This repository contains 5 core projects completed during my studies at [42 School](https://42yerevan.am/en). Each project is written in C and demonstrates foundational programming concepts including memory management, file I/O, custom libraries, and basic graphics handling.
 
